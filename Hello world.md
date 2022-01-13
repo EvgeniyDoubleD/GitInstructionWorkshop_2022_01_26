@@ -1,14 +1,15 @@
 Privet bro 
 super pupers
 
-privet brogt    sss
+privet 
 aaa
 g
 napisal pervoe dlya kontrolya
-# Stuff bro
-## Stuff bro
-### Stuff bro
-prost bro
+# Stuff 
+## Stuff 
+### Stuff 
+prost ```Git
 
 
-*Super pupper bro 
+*Super pupper  ```git verision 
+s
