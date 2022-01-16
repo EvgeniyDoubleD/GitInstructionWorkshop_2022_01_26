@@ -28,3 +28,7 @@ dobavil kommentariy
 novaya volna
 
 [загружаем последнюю ссылку с сайта](ссылка)
+git checkout 
+ss
+markdown
+bro
