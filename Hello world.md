@@ -32,3 +32,4 @@ git checkout
 ss
 markdown
 bro
+gi
